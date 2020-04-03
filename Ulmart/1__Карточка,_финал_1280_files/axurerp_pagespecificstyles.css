@@ -1,0 +1,8953 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:20px;
+    top:260px;
+    width:340px;
+    height:340px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:340px;
+    height:340px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:162px;
+    width:336px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:119px;
+    top:222px;
+    width:1030px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:20px;
+    top:220px;
+    width:90px;
+    height:20px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:26px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:86px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5 {
+    position:absolute;
+    left:20px;
+    top:150px;
+    width:610px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:1226px;
+    top:184px;
+    width:24px;
+    height:24px;
+}
+
+#u6_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:24px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:90px;
+    top:615px;
+    width:50px;
+    height:50px;
+}
+
+#u8_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:25px;
+    top:615px;
+    width:50px;
+    height:50px;
+}
+
+#u10_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:155px;
+    top:615px;
+    width:50px;
+    height:50px;
+}
+
+#u12_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:220px;
+    top:615px;
+    width:50px;
+    height:50px;
+}
+
+#u14_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:20px;
+    top:610px;
+    width:60px;
+    height:60px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:66px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:85px;
+    top:610px;
+    width:60px;
+    height:60px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:66px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u18_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:150px;
+    top:610px;
+    width:60px;
+    height:60px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:66px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u18_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:215px;
+    top:610px;
+    width:60px;
+    height:60px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:66px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:285px;
+    top:615px;
+    width:50px;
+    height:50px;
+}
+
+#u24_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u18_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:280px;
+    top:610px;
+    width:60px;
+    height:60px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:66px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:375px;
+    top:760px;
+    width:60px;
+    height:82px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:395px;
+    top:805px;
+    width:580px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:430px;
+    top:555px;
+    width:250px;
+    height:180px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u31_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:675px;
+    top:610px;
+    width:300px;
+    height:77px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:306px;
+    height:83px;
+}
+
+.u32 {
+    position:absolute;
+    left:10px;
+    top:8px;
+    width:285px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u33_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:675px;
+    top:555px;
+    width:300px;
+    height:47px;
+}
+
+#u33_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:306px;
+    height:53px;
+}
+
+.u34 {
+    position:absolute;
+    left:10px;
+    top:8px;
+    width:285px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u35_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1270px;
+    height:40px;
+}
+
+#u35_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1276px;
+    height:46px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:1266px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u37_normal.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:1270px;
+    height:100px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1276px;
+    height:106px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:1266px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:240px;
+    top:58px;
+    width:140px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u40_line.png');
+}
+
+.u40_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:100px;
+    height:3px;
+}
+
+.u40 {
+    position:absolute;
+    left:240px;
+    top:67px;
+    width:100px;
+    height:10px;
+    
+}
+
+.u41 {
+    position:absolute;
+    left:350px;
+    top:54px;
+    width:180px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:960px;
+    top:58px;
+    width:290px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43_normal {
+    background-image: url('../Лого_files/u43_normal.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:20px;
+    top:50px;
+    width:195px;
+    height:31px;
+}
+
+#u43_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:195px;
+    height:31px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u46_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:20px;
+    top:95px;
+    width:230px;
+    height:32px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:236px;
+    height:38px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:226px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u48_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:905px;
+    top:53px;
+    width:120px;
+    height:25px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:31px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:116px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u50_line.png');
+}
+
+.u50_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:90px;
+    height:3px;
+}
+
+.u50 {
+    position:absolute;
+    left:915px;
+    top:67px;
+    width:90px;
+    height:10px;
+    
+}
+
+.u51 {
+    position:absolute;
+    left:1150px;
+    top:10px;
+    width:100px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u52_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:1200px;
+    top:10px;
+    width:16px;
+    height:16px;
+}
+
+#u52_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u54_line.png');
+}
+
+.u54_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:30px;
+    height:3px;
+}
+
+.u54 {
+    position:absolute;
+    left:1218px;
+    top:20px;
+    width:30px;
+    height:10px;
+    
+}
+
+.u55 {
+    position:absolute;
+    left:1085px;
+    top:10px;
+    width:100px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:1030px;
+    top:105px;
+    width:220px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u57_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:1050px;
+    top:104px;
+    width:16px;
+    height:16px;
+}
+
+#u57_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59 {
+    position:absolute;
+    left:220px;
+    top:10px;
+    width:100px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u60_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:311px;
+    top:14px;
+    width:38px;
+    height:10px;
+}
+
+#u60_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:38px;
+    height:10px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:34px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u62_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:20px;
+    top:5px;
+    width:70px;
+    height:26px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:32px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:66px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u64_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:90px;
+    top:5px;
+    width:130px;
+    height:26px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:32px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:126px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u66_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:270px;
+    top:95px;
+    width:75px;
+    height:31px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:37px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68 {
+    position:absolute;
+    left:345px;
+    top:95px;
+    width:585px;
+    height:32px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#FFFFFF;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u69_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u69_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:930px;
+    top:95px;
+    width:70px;
+    height:31px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:37px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u71_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:275px;
+    top:103px;
+    width:16px;
+    height:16px;
+}
+
+#u71_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73 {
+    position:absolute;
+    left:295px;
+    top:105px;
+    width:55px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74 {
+    position:absolute;
+    left:46px;
+    top:759px;
+    width:110px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u75_line.png');
+}
+
+.u75_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:95px;
+    height:3px;
+}
+
+.u75 {
+    position:absolute;
+    left:46px;
+    top:769px;
+    width:95px;
+    height:10px;
+    
+}
+
+.u76_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u76_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:20px;
+    top:755px;
+    width:24px;
+    height:24px;
+}
+
+#u76_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:24px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78 {
+    position:absolute;
+    left:1080px;
+    top:405px;
+    width:170px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79 {
+    position:absolute;
+    left:1020px;
+    top:375px;
+    width:230px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80 {
+    position:absolute;
+    left:395px;
+    top:845px;
+    width:300px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81 {
+    position:absolute;
+    left:395px;
+    top:870px;
+    width:200px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82 {
+    position:absolute;
+    left:1080px;
+    top:470px;
+    width:170px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u83_normal.png');
+}
+
+.u83_container {
+    position:absolute;
+    left:1020px;
+    top:470px;
+    width:50px;
+    height:50px;
+}
+
+#u83_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u84 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85 {
+    position:absolute;
+    left:1080px;
+    top:550px;
+    width:170px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u86_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:1020px;
+    top:550px;
+    width:50px;
+    height:50px;
+}
+
+#u86_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u88_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:1020px;
+    top:405px;
+    width:50px;
+    height:50px;
+}
+
+#u88_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u90_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:20px;
+    top:260px;
+    width:48px;
+    height:48px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:54px;
+    height:54px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:44px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u92_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:28px;
+    top:268px;
+    width:32px;
+    height:32px;
+}
+
+#u92_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94 {
+    position:absolute;
+    left:1080px;
+    top:615px;
+    width:170px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u95_normal.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:1020px;
+    top:615px;
+    width:50px;
+    height:50px;
+}
+
+#u95_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u96 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97 {
+    position:absolute;
+    left:1020px;
+    top:260px;
+    width:230px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u98_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:403px;
+    top:555px;
+    width:19px;
+    height:24px;
+}
+
+#u98_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:19px;
+    height:24px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:15px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u100_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:400px;
+    top:591px;
+    width:24px;
+    height:24px;
+}
+
+#u100_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:24px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u102_normal.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:400px;
+    top:621px;
+    width:24px;
+    height:24px;
+}
+
+#u102_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:24px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u104_normal.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:400px;
+    top:655px;
+    width:24px;
+    height:13px;
+}
+
+#u104_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:13px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:-2px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u106_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:402px;
+    top:681px;
+    width:22px;
+    height:22px;
+}
+
+#u106_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:22px;
+    height:22px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u108_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:400px;
+    top:711px;
+    width:24px;
+    height:19px;
+}
+
+#u108_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:19px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110 {
+    position:absolute;
+    left:395px;
+    top:745px;
+    width:200px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111 {
+    position:absolute;
+    left:395px;
+    top:465px;
+    width:585px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u112_normal.png');
+}
+
+.u112_container {
+    position:absolute;
+    left:675px;
+    top:695px;
+    width:300px;
+    height:62px;
+}
+
+#u112_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:306px;
+    height:68px;
+}
+
+.u113 {
+    position:absolute;
+    left:10px;
+    top:8px;
+    width:240px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u114_normal.png');
+}
+
+.u114_container {
+    position:absolute;
+    left:935px;
+    top:706px;
+    width:32px;
+    height:32px;
+}
+
+#u114_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u115 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u116_container {
+    position:absolute;
+    left:19px;
+    top:1500px;
+    width:160px;
+    height:30px;
+}
+
+#u116_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:166px;
+    height:36px;
+}
+
+.u117 {
+    position:absolute;
+    left:30px;
+    top:6px;
+    width:128px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u118_normal.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:179px;
+    top:1500px;
+    width:115px;
+    height:30px;
+}
+
+#u118_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:121px;
+    height:36px;
+}
+
+.u119 {
+    position:absolute;
+    left:30px;
+    top:6px;
+    width:83px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u120_container {
+    position:absolute;
+    left:294px;
+    top:1500px;
+    width:135px;
+    height:30px;
+}
+
+#u120_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:141px;
+    height:36px;
+}
+
+.u121 {
+    position:absolute;
+    left:30px;
+    top:6px;
+    width:103px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u122_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:189px;
+    top:1507px;
+    width:16px;
+    height:16px;
+}
+
+#u122_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:22px;
+    height:22px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u124_normal.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:29px;
+    top:1507px;
+    width:16px;
+    height:16px;
+}
+
+#u124_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:22px;
+    height:22px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u124_normal.png');
+}
+
+.u126_container {
+    position:absolute;
+    left:304px;
+    top:1507px;
+    width:16px;
+    height:16px;
+}
+
+#u126_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:22px;
+    height:22px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128 {
+    position:absolute;
+    left:19px;
+    top:1550px;
+    width:490px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u129_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u129_normal.png');
+}
+
+.u129_container {
+    position:absolute;
+    left:1019px;
+    top:1630px;
+    width:160px;
+    height:32px;
+}
+
+#u129_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:166px;
+    height:38px;
+}
+
+.u130 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:156px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u131 {
+    position:absolute;
+    left:19px;
+    top:1595px;
+    width:110px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132 {
+    position:absolute;
+    left:1019px;
+    top:1560px;
+    width:185px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u133_normal.png');
+}
+
+.u133_container {
+    position:absolute;
+    left:1073px;
+    top:1889px;
+    width:16px;
+    height:16px;
+}
+
+#u133_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u134 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u135_container {
+    position:absolute;
+    left:1019px;
+    top:1889px;
+    width:16px;
+    height:16px;
+}
+
+#u135_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u136 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u137_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u137_container {
+    position:absolute;
+    left:1037px;
+    top:1889px;
+    width:16px;
+    height:16px;
+}
+
+#u137_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u138 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u139_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u139_container {
+    position:absolute;
+    left:1055px;
+    top:1889px;
+    width:16px;
+    height:16px;
+}
+
+#u139_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u140 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u141_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u133_normal.png');
+}
+
+.u141_container {
+    position:absolute;
+    left:1091px;
+    top:1889px;
+    width:16px;
+    height:16px;
+}
+
+#u141_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u142 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u143_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u133_normal.png');
+}
+
+.u143_container {
+    position:absolute;
+    left:1073px;
+    top:1839px;
+    width:16px;
+    height:16px;
+}
+
+#u143_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u144 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u145_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u145_container {
+    position:absolute;
+    left:1019px;
+    top:1839px;
+    width:16px;
+    height:16px;
+}
+
+#u145_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u146 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u147_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u133_normal.png');
+}
+
+.u147_container {
+    position:absolute;
+    left:1091px;
+    top:1839px;
+    width:16px;
+    height:16px;
+}
+
+#u147_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u148 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u149_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u133_normal.png');
+}
+
+.u149_container {
+    position:absolute;
+    left:1073px;
+    top:1865px;
+    width:16px;
+    height:16px;
+}
+
+#u149_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u150 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u151_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u151_container {
+    position:absolute;
+    left:1019px;
+    top:1865px;
+    width:16px;
+    height:16px;
+}
+
+#u151_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u152 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u153_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u153_container {
+    position:absolute;
+    left:1037px;
+    top:1865px;
+    width:16px;
+    height:16px;
+}
+
+#u153_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u154 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u155_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u133_normal.png');
+}
+
+.u155_container {
+    position:absolute;
+    left:1091px;
+    top:1865px;
+    width:16px;
+    height:16px;
+}
+
+#u155_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u156 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u157_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u157_container {
+    position:absolute;
+    left:1019px;
+    top:1939px;
+    width:16px;
+    height:16px;
+}
+
+#u157_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u158 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u159_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u159_container {
+    position:absolute;
+    left:1037px;
+    top:1939px;
+    width:16px;
+    height:16px;
+}
+
+#u159_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u160 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u161_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u161_container {
+    position:absolute;
+    left:1055px;
+    top:1939px;
+    width:16px;
+    height:16px;
+}
+
+#u161_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u162 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u163_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u133_normal.png');
+}
+
+.u163_container {
+    position:absolute;
+    left:1037px;
+    top:1839px;
+    width:16px;
+    height:16px;
+}
+
+#u163_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u164 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u165_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u133_normal.png');
+}
+
+.u165_container {
+    position:absolute;
+    left:1055px;
+    top:1839px;
+    width:16px;
+    height:16px;
+}
+
+#u165_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u166 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u167_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u133_normal.png');
+}
+
+.u167_container {
+    position:absolute;
+    left:1055px;
+    top:1865px;
+    width:16px;
+    height:16px;
+}
+
+#u167_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u168 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u169_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u169_container {
+    position:absolute;
+    left:1073px;
+    top:1939px;
+    width:16px;
+    height:16px;
+}
+
+#u169_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u170 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u171_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u171_container {
+    position:absolute;
+    left:1091px;
+    top:1939px;
+    width:16px;
+    height:16px;
+}
+
+#u171_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u172 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u173 {
+    position:absolute;
+    left:1114px;
+    top:1835px;
+    width:90px;
+    height:125px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174 {
+    position:absolute;
+    left:1019px;
+    top:1810px;
+    width:185px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u175_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u175_normal.png');
+}
+
+.u175_container {
+    position:absolute;
+    left:1019px;
+    top:1585px;
+    width:26px;
+    height:25px;
+}
+
+#u175_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:25px;
+}
+
+.u176 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u177_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u177_normal.png');
+}
+
+.u177_container {
+    position:absolute;
+    left:1019px;
+    top:1725px;
+    width:26px;
+    height:25px;
+}
+
+#u177_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:25px;
+}
+
+.u178 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u179_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u175_normal.png');
+}
+
+.u179_container {
+    position:absolute;
+    left:1049px;
+    top:1585px;
+    width:26px;
+    height:25px;
+}
+
+#u179_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:25px;
+}
+
+.u180 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u181_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u175_normal.png');
+}
+
+.u181_container {
+    position:absolute;
+    left:1079px;
+    top:1585px;
+    width:26px;
+    height:25px;
+}
+
+#u181_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:25px;
+}
+
+.u182 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u183_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u175_normal.png');
+}
+
+.u183_container {
+    position:absolute;
+    left:1109px;
+    top:1585px;
+    width:26px;
+    height:25px;
+}
+
+#u183_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:25px;
+}
+
+.u184 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u185_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u175_normal.png');
+}
+
+.u185_container {
+    position:absolute;
+    left:1139px;
+    top:1585px;
+    width:26px;
+    height:25px;
+}
+
+#u185_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:25px;
+}
+
+.u186 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u187_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u177_normal.png');
+}
+
+.u187_container {
+    position:absolute;
+    left:1049px;
+    top:1725px;
+    width:26px;
+    height:25px;
+}
+
+#u187_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:25px;
+}
+
+.u188 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u189_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u177_normal.png');
+}
+
+.u189_container {
+    position:absolute;
+    left:1079px;
+    top:1725px;
+    width:26px;
+    height:25px;
+}
+
+#u189_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:25px;
+}
+
+.u190 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u191_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u191_normal.png');
+}
+
+.u191_container {
+    position:absolute;
+    left:1109px;
+    top:1725px;
+    width:26px;
+    height:25px;
+}
+
+#u191_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:25px;
+}
+
+.u192 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u193_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u175_normal.png');
+}
+
+.u193_container {
+    position:absolute;
+    left:1139px;
+    top:1725px;
+    width:26px;
+    height:25px;
+}
+
+#u193_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:25px;
+}
+
+.u194 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u195 {
+    position:absolute;
+    left:1019px;
+    top:1700px;
+    width:185px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u196 {
+    position:absolute;
+    left:1019px;
+    top:1760px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u197_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u197_container {
+    position:absolute;
+    left:1019px;
+    top:1915px;
+    width:16px;
+    height:16px;
+}
+
+#u197_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u198 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u199_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u199_container {
+    position:absolute;
+    left:1037px;
+    top:1915px;
+    width:16px;
+    height:16px;
+}
+
+#u199_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u200 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u201_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u201_container {
+    position:absolute;
+    left:1055px;
+    top:1915px;
+    width:16px;
+    height:16px;
+}
+
+#u201_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u202 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u203_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u133_normal.png');
+}
+
+.u203_container {
+    position:absolute;
+    left:1091px;
+    top:1915px;
+    width:16px;
+    height:16px;
+}
+
+#u203_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u204 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u205_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u205_container {
+    position:absolute;
+    left:1073px;
+    top:1915px;
+    width:16px;
+    height:16px;
+}
+
+#u205_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u206 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u207 {
+    position:absolute;
+    left:1019px;
+    top:1970px;
+    width:185px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u208 {
+    position:absolute;
+    left:19px;
+    top:2040px;
+    width:230px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u209_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u209_line.png');
+}
+
+.u209_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:118px;
+    height:3px;
+}
+
+.u209 {
+    position:absolute;
+    left:49px;
+    top:1518px;
+    width:118px;
+    height:10px;
+    
+}
+
+.u210_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u210_line.png');
+}
+
+.u210_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:90px;
+    height:3px;
+}
+
+.u210 {
+    position:absolute;
+    left:324px;
+    top:1518px;
+    width:90px;
+    height:10px;
+    
+}
+
+.u211_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u211_normal.png');
+}
+
+.u211_container {
+    position:absolute;
+    left:109px;
+    top:1590px;
+    width:40px;
+    height:20px;
+}
+
+#u211_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:26px;
+}
+
+.u212 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:36px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u213_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u213_normal.png');
+}
+
+.u213_container {
+    position:absolute;
+    left:209px;
+    top:1590px;
+    width:90px;
+    height:20px;
+}
+
+#u213_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:26px;
+}
+
+.u214 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:86px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u215_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u215_normal.png');
+}
+
+.u215_container {
+    position:absolute;
+    left:149px;
+    top:1590px;
+    width:60px;
+    height:20px;
+}
+
+#u215_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:26px;
+}
+
+.u216 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:56px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u217_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u217_normal.png');
+}
+
+.u217_container {
+    position:absolute;
+    left:0px;
+    top:2330px;
+    width:1270px;
+    height:160px;
+}
+
+#u217_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1276px;
+    height:166px;
+}
+
+.u218 {
+    position:absolute;
+    left:2px;
+    top:72px;
+    width:1266px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u219_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u219_normal.png');
+}
+
+.u219_container {
+    position:absolute;
+    left:1138px;
+    top:2350px;
+    width:32px;
+    height:32px;
+}
+
+#u219_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u220 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u221_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u221_normal.png');
+}
+
+.u221_container {
+    position:absolute;
+    left:978px;
+    top:2350px;
+    width:32px;
+    height:32px;
+}
+
+#u221_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u222 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u223_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u223_normal.png');
+}
+
+.u223_container {
+    position:absolute;
+    left:1018px;
+    top:2350px;
+    width:32px;
+    height:32px;
+}
+
+#u223_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u224 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u225_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u225_normal.png');
+}
+
+.u225_container {
+    position:absolute;
+    left:1058px;
+    top:2350px;
+    width:32px;
+    height:32px;
+}
+
+#u225_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u226 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u227_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u227_normal.png');
+}
+
+.u227_container {
+    position:absolute;
+    left:1098px;
+    top:2350px;
+    width:32px;
+    height:32px;
+}
+
+#u227_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u228 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u229_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u229_normal.png');
+}
+
+.u229_container {
+    position:absolute;
+    left:1178px;
+    top:2350px;
+    width:32px;
+    height:32px;
+}
+
+#u229_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u230 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u231_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u231_normal.png');
+}
+
+.u231_container {
+    position:absolute;
+    left:1218px;
+    top:2350px;
+    width:32px;
+    height:32px;
+}
+
+#u231_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u232 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u233_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u233_normal.png');
+}
+
+.u233_container {
+    position:absolute;
+    left:20px;
+    top:2390px;
+    width:200px;
+    height:38px;
+}
+
+#u233_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:206px;
+    height:44px;
+}
+
+.u234 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:196px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u235_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u235_normal.png');
+}
+
+.u235_container {
+    position:absolute;
+    left:125px;
+    top:2400px;
+    width:16px;
+    height:16px;
+}
+
+#u235_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u236 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u237 {
+    position:absolute;
+    left:30px;
+    top:2394px;
+    width:115px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u238_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u235_normal.png');
+}
+
+.u238_container {
+    position:absolute;
+    left:141px;
+    top:2400px;
+    width:16px;
+    height:16px;
+}
+
+#u238_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u239 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u240_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u235_normal.png');
+}
+
+.u240_container {
+    position:absolute;
+    left:157px;
+    top:2400px;
+    width:16px;
+    height:16px;
+}
+
+#u240_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u241 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u242_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u235_normal.png');
+}
+
+.u242_container {
+    position:absolute;
+    left:173px;
+    top:2400px;
+    width:16px;
+    height:16px;
+}
+
+#u242_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u243 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u244_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u235_normal.png');
+}
+
+.u244_container {
+    position:absolute;
+    left:189px;
+    top:2400px;
+    width:16px;
+    height:16px;
+}
+
+#u244_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u245 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u246 {
+    position:absolute;
+    left:30px;
+    top:2408px;
+    width:115px;
+    height:11px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u247 {
+    position:absolute;
+    left:770px;
+    top:2410px;
+    width:480px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u248 {
+    position:absolute;
+    left:75px;
+    top:2354px;
+    width:290px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u249_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u249_normal.png');
+}
+
+.u249_container {
+    position:absolute;
+    left:20px;
+    top:2350px;
+    width:125px;
+    height:25px;
+}
+
+#u249_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:31px;
+}
+
+.u250 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:121px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u251_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u251_line.png');
+}
+
+.u251_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:90px;
+    height:3px;
+}
+
+.u251 {
+    position:absolute;
+    left:30px;
+    top:2364px;
+    width:90px;
+    height:10px;
+    
+}
+
+#u252 {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    width:1271px;
+    height:41px;
+    overflow:hidden;
+}
+
+#pd0u252 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1271px;
+    height:41px;
+    
+}
+
+.u253_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u35_normal.png');
+}
+
+.u253_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1270px;
+    height:40px;
+}
+
+#u253_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1276px;
+    height:46px;
+}
+
+.u254 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:1266px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u255 {
+    position:absolute;
+    left:813px;
+    top:11px;
+    width:76px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u256 {
+    position:absolute;
+    left:945px;
+    top:12px;
+    width:89px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u257_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u257_normal.png');
+}
+
+.u257_container {
+    position:absolute;
+    left:1125px;
+    top:7px;
+    width:125px;
+    height:25px;
+}
+
+#u257_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:31px;
+}
+
+.u258 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:121px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u259 {
+    position:absolute;
+    left:675px;
+    top:12px;
+    width:100px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u260_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u260_normal.png');
+}
+
+.u260_container {
+    position:absolute;
+    left:915px;
+    top:8px;
+    width:24px;
+    height:24px;
+}
+
+#u260_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:24px;
+}
+
+.u261 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u262_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u262_normal.png');
+}
+
+.u262_container {
+    position:absolute;
+    left:783px;
+    top:9px;
+    width:24px;
+    height:24px;
+}
+
+#u262_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:24px;
+}
+
+.u263 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u264_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u264_normal.png');
+}
+
+.u264_container {
+    position:absolute;
+    left:645px;
+    top:8px;
+    width:24px;
+    height:24px;
+}
+
+#u264_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:24px;
+}
+
+.u265 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u266_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u266_normal.png');
+}
+
+.u266_container {
+    position:absolute;
+    left:20px;
+    top:7px;
+    width:120px;
+    height:25px;
+}
+
+#u266_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:31px;
+}
+
+.u267 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:116px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u268_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u268_line.png');
+}
+
+.u268_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:40px;
+}
+
+.u268 {
+    position:absolute;
+    left:635px;
+    top:0px;
+    width:10px;
+    height:40px;
+    
+}
+
+.u269_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u269_normal.png');
+}
+
+.u269_container {
+    position:absolute;
+    left:1000px;
+    top:9px;
+    width:27px;
+    height:22px;
+}
+
+#u269_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:33px;
+    height:28px;
+}
+
+.u270 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:23px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u271 {
+    position:absolute;
+    left:1035px;
+    top:13px;
+    width:89px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u272_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u272_normal.png');
+}
+
+.u272_container {
+    position:absolute;
+    left:875px;
+    top:7px;
+    width:27px;
+    height:22px;
+}
+
+#u272_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:33px;
+    height:28px;
+}
+
+.u273 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:23px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u274_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u272_normal.png');
+}
+
+.u274_container {
+    position:absolute;
+    left:745px;
+    top:9px;
+    width:27px;
+    height:22px;
+}
+
+#u274_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:33px;
+    height:28px;
+}
+
+.u275 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:23px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u276_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u276_line.png');
+}
+
+.u276_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:40px;
+}
+
+.u276 {
+    position:absolute;
+    left:775px;
+    top:0px;
+    width:10px;
+    height:40px;
+    
+}
+
+.u277_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u277_line.png');
+}
+
+.u277_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:40px;
+}
+
+.u277 {
+    position:absolute;
+    left:905px;
+    top:0px;
+    width:10px;
+    height:40px;
+    
+}
+
+.u278_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u278_normal.png');
+}
+
+.u278_container {
+    position:absolute;
+    left:145px;
+    top:7px;
+    width:145px;
+    height:25px;
+}
+
+#u278_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:151px;
+    height:31px;
+}
+
+.u279 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:141px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u280 {
+    position:absolute;
+    left:169px;
+    top:1670px;
+    width:800px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u281_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u133_normal.png');
+}
+
+.u281_container {
+    position:absolute;
+    left:223px;
+    top:1640px;
+    width:16px;
+    height:16px;
+}
+
+#u281_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u282 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u283_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u283_container {
+    position:absolute;
+    left:169px;
+    top:1640px;
+    width:16px;
+    height:16px;
+}
+
+#u283_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u284 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u285_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u285_container {
+    position:absolute;
+    left:187px;
+    top:1640px;
+    width:16px;
+    height:16px;
+}
+
+#u285_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u286 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u287_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u287_container {
+    position:absolute;
+    left:205px;
+    top:1640px;
+    width:16px;
+    height:16px;
+}
+
+#u287_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u288 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u289_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u133_normal.png');
+}
+
+.u289_container {
+    position:absolute;
+    left:241px;
+    top:1640px;
+    width:16px;
+    height:16px;
+}
+
+#u289_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u290 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u291 {
+    position:absolute;
+    left:369px;
+    top:1640px;
+    width:280px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u292 {
+    position:absolute;
+    left:274px;
+    top:1640px;
+    width:85px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u293 {
+    position:absolute;
+    left:169px;
+    top:1710px;
+    width:800px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u294 {
+    position:absolute;
+    left:169px;
+    top:1750px;
+    width:800px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u295 {
+    position:absolute;
+    left:19px;
+    top:1700px;
+    width:140px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u296_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u296_normal.png');
+}
+
+.u296_container {
+    position:absolute;
+    left:19px;
+    top:1640px;
+    width:50px;
+    height:50px;
+}
+
+#u296_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:56px;
+}
+
+.u297 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u298_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u298_normal.png');
+}
+
+.u298_container {
+    position:absolute;
+    left:33px;
+    top:1646px;
+    width:22px;
+    height:28px;
+}
+
+#u298_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:28px;
+    height:34px;
+}
+
+.u299 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u300_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u300_normal.png');
+}
+
+.u300_container {
+    position:absolute;
+    left:24px;
+    top:1666px;
+    width:39px;
+    height:24px;
+}
+
+#u300_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:45px;
+    height:30px;
+}
+
+.u301 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u302_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u302_normal.png');
+}
+
+.u302_container {
+    position:absolute;
+    left:909px;
+    top:1825px;
+    width:25px;
+    height:25px;
+}
+
+#u302_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:31px;
+    height:31px;
+}
+
+.u303 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:21px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u304_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u304_normal.png');
+}
+
+.u304_container {
+    position:absolute;
+    left:884px;
+    top:1825px;
+    width:25px;
+    height:25px;
+}
+
+#u304_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:31px;
+    height:31px;
+}
+
+.u305 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u306_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u306_normal.png');
+}
+
+.u306_container {
+    position:absolute;
+    left:888px;
+    top:1830px;
+    width:17px;
+    height:17px;
+}
+
+#u306_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:17px;
+    height:17px;
+}
+
+.u307 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:13px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u308_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u308_normal.png');
+}
+
+.u308_container {
+    position:absolute;
+    left:934px;
+    top:1825px;
+    width:25px;
+    height:25px;
+}
+
+#u308_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:31px;
+    height:31px;
+}
+
+.u309 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u310_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u310_normal.png');
+}
+
+.u310_container {
+    position:absolute;
+    left:938px;
+    top:1830px;
+    width:17px;
+    height:17px;
+}
+
+#u310_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:17px;
+    height:17px;
+}
+
+.u311 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:13px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u312 {
+    position:absolute;
+    left:779px;
+    top:1832px;
+    width:95px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u313_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u313_normal.png');
+}
+
+.u313_container {
+    position:absolute;
+    left:49px;
+    top:1740px;
+    width:40px;
+    height:18px;
+}
+
+#u313_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:24px;
+}
+
+.u314 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:36px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u315_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u315_normal.png');
+}
+
+.u315_container {
+    position:absolute;
+    left:19px;
+    top:1740px;
+    width:30px;
+    height:18px;
+}
+
+#u315_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:24px;
+}
+
+.u316 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:26px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u317 {
+    position:absolute;
+    left:19px;
+    top:1920px;
+    width:140px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u318_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u318_normal.png');
+}
+
+.u318_container {
+    position:absolute;
+    left:19px;
+    top:1860px;
+    width:50px;
+    height:50px;
+}
+
+#u318_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u319 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u320 {
+    position:absolute;
+    left:349px;
+    top:1860px;
+    width:355px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u321 {
+    position:absolute;
+    left:254px;
+    top:1860px;
+    width:85px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u322_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u322_normal.png');
+}
+
+.u322_container {
+    position:absolute;
+    left:44px;
+    top:1945px;
+    width:75px;
+    height:18px;
+}
+
+#u322_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:24px;
+}
+
+.u323 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:71px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u324_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u324_normal.png');
+}
+
+.u324_container {
+    position:absolute;
+    left:19px;
+    top:1945px;
+    width:25px;
+    height:18px;
+}
+
+#u324_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:31px;
+    height:24px;
+}
+
+.u325 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:21px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u326 {
+    position:absolute;
+    left:169px;
+    top:1890px;
+    width:800px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u327 {
+    position:absolute;
+    left:169px;
+    top:1915px;
+    width:800px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u328 {
+    position:absolute;
+    left:169px;
+    top:1940px;
+    width:800px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u329_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u302_normal.png');
+}
+
+.u329_container {
+    position:absolute;
+    left:909px;
+    top:1965px;
+    width:25px;
+    height:25px;
+}
+
+#u329_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:31px;
+    height:31px;
+}
+
+.u330 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:21px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u331_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u304_normal.png');
+}
+
+.u331_container {
+    position:absolute;
+    left:884px;
+    top:1965px;
+    width:25px;
+    height:25px;
+}
+
+#u331_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:31px;
+    height:31px;
+}
+
+.u332 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u333_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u306_normal.png');
+}
+
+.u333_container {
+    position:absolute;
+    left:888px;
+    top:1970px;
+    width:17px;
+    height:17px;
+}
+
+#u333_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:17px;
+    height:17px;
+}
+
+.u334 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:13px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u335_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u308_normal.png');
+}
+
+.u335_container {
+    position:absolute;
+    left:934px;
+    top:1965px;
+    width:25px;
+    height:25px;
+}
+
+#u335_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:31px;
+    height:31px;
+}
+
+.u336 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u337_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u310_normal.png');
+}
+
+.u337_container {
+    position:absolute;
+    left:938px;
+    top:1970px;
+    width:17px;
+    height:17px;
+}
+
+#u337_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:17px;
+    height:17px;
+}
+
+.u338 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:13px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u339 {
+    position:absolute;
+    left:779px;
+    top:1972px;
+    width:95px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u340 {
+    position:absolute;
+    left:184px;
+    top:2043px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u341_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u341_normal.png');
+}
+
+.u341_container {
+    position:absolute;
+    left:395px;
+    top:260px;
+    width:580px;
+    height:180px;
+}
+
+#u341_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:586px;
+    height:186px;
+}
+
+.u342 {
+    position:absolute;
+    left:2px;
+    top:75px;
+    width:576px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u343_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u343_normal.png');
+}
+
+.u343_container {
+    position:absolute;
+    left:550px;
+    top:315px;
+    width:170px;
+    height:105px;
+}
+
+#u343_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:111px;
+}
+
+.u344 {
+    position:absolute;
+    left:10px;
+    top:44px;
+    width:158px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u345 {
+    position:absolute;
+    left:560px;
+    top:345px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u346_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u346_line.png');
+}
+
+.u346_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:110px;
+    height:3px;
+}
+
+.u346 {
+    position:absolute;
+    left:560px;
+    top:355px;
+    width:110px;
+    height:10px;
+    
+}
+
+.u347 {
+    position:absolute;
+    left:560px;
+    top:367px;
+    width:150px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u348_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u348_line.png');
+}
+
+.u348_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:125px;
+    height:3px;
+}
+
+.u348 {
+    position:absolute;
+    left:560px;
+    top:377px;
+    width:125px;
+    height:10px;
+    
+}
+
+.u349 {
+    position:absolute;
+    left:560px;
+    top:325px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u350 {
+    position:absolute;
+    left:415px;
+    top:275px;
+    width:190px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u351 {
+    position:absolute;
+    left:590px;
+    top:285px;
+    width:130px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u352_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u352_line.png');
+}
+
+.u352_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:55px;
+    height:3px;
+}
+
+.u352 {
+    position:absolute;
+    left:590px;
+    top:292px;
+    width:55px;
+    height:10px;
+    
+}
+
+.u353_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u353_normal.png');
+}
+
+.u353_container {
+    position:absolute;
+    left:560px;
+    top:283px;
+    width:16px;
+    height:16px;
+}
+
+#u353_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:22px;
+    height:22px;
+}
+
+.u354 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:12px;
+    height:11px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u355 {
+    position:absolute;
+    left:445px;
+    top:386px;
+    width:80px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u356_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u356_line.png');
+}
+
+.u356_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:65px;
+    height:3px;
+}
+
+.u356 {
+    position:absolute;
+    left:445px;
+    top:396px;
+    width:65px;
+    height:10px;
+    
+}
+
+.u357 {
+    position:absolute;
+    left:445px;
+    top:362px;
+    width:95px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u358_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u358_line.png');
+}
+
+.u358_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:78px;
+    height:3px;
+}
+
+.u358 {
+    position:absolute;
+    left:445px;
+    top:372px;
+    width:78px;
+    height:10px;
+    
+}
+
+.u359_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u262_normal.png');
+}
+
+.u359_container {
+    position:absolute;
+    left:415px;
+    top:360px;
+    width:24px;
+    height:24px;
+}
+
+#u359_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:24px;
+}
+
+.u360 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u361_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u361_normal.png');
+}
+
+.u361_container {
+    position:absolute;
+    left:415px;
+    top:384px;
+    width:24px;
+    height:24px;
+}
+
+#u361_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:24px;
+}
+
+.u362 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u363_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u363_normal.png');
+}
+
+.u363_container {
+    position:absolute;
+    left:415px;
+    top:315px;
+    width:110px;
+    height:35px;
+}
+
+#u363_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:41px;
+}
+
+.u364 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:106px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u365_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u365_normal.png');
+}
+
+.u365_container {
+    position:absolute;
+    left:790px;
+    top:325px;
+    width:33px;
+    height:27px;
+}
+
+#u365_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:33px;
+    height:27px;
+}
+
+.u366 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:29px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u367 {
+    position:absolute;
+    left:830px;
+    top:325px;
+    width:130px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u368_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u133_normal.png');
+}
+
+.u368_container {
+    position:absolute;
+    left:838px;
+    top:295px;
+    width:16px;
+    height:16px;
+}
+
+#u368_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u369 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u370_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u370_container {
+    position:absolute;
+    left:790px;
+    top:295px;
+    width:16px;
+    height:16px;
+}
+
+#u370_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u371 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u372_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u372_container {
+    position:absolute;
+    left:806px;
+    top:295px;
+    width:16px;
+    height:16px;
+}
+
+#u372_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u373 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u374_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u135_normal.png');
+}
+
+.u374_container {
+    position:absolute;
+    left:822px;
+    top:295px;
+    width:16px;
+    height:16px;
+}
+
+#u374_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u375 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u376_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u133_normal.png');
+}
+
+.u376_container {
+    position:absolute;
+    left:854px;
+    top:295px;
+    width:16px;
+    height:16px;
+}
+
+#u376_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u377 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u378 {
+    position:absolute;
+    left:880px;
+    top:295px;
+    width:75px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u379 {
+    position:absolute;
+    left:790px;
+    top:280px;
+    width:140px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u380_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u380_normal.png');
+}
+
+.u380_container {
+    position:absolute;
+    left:790px;
+    top:365px;
+    width:130px;
+    height:20px;
+}
+
+#u380_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:26px;
+}
+
+.u381 {
+    position:absolute;
+    left:30px;
+    top:4px;
+    width:98px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u382_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u382_normal.png');
+}
+
+.u382_container {
+    position:absolute;
+    left:795px;
+    top:366px;
+    width:16px;
+    height:16px;
+}
+
+#u382_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u383 {
+    position:absolute;
+    left:30px;
+    top:0px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u384_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u384_normal.png');
+}
+
+.u384_container {
+    position:absolute;
+    left:790px;
+    top:395px;
+    width:70px;
+    height:20px;
+}
+
+#u384_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:26px;
+}
+
+.u385 {
+    position:absolute;
+    left:30px;
+    top:4px;
+    width:38px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u386_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u386_normal.png');
+}
+
+.u386_container {
+    position:absolute;
+    left:795px;
+    top:398px;
+    width:17px;
+    height:16px;
+}
+
+#u386_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:17px;
+    height:16px;
+}
+
+.u387 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:13px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u388_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u388_line.png');
+}
+
+.u388_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:160px;
+}
+
+.u388 {
+    position:absolute;
+    left:770px;
+    top:270px;
+    width:10px;
+    height:160px;
+    
+}
+
+.u389 {
+    position:absolute;
+    left:19px;
+    top:2127px;
+    width:150px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u390 {
+    position:absolute;
+    left:189px;
+    top:2127px;
+    width:150px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u391_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u83_normal.png');
+}
+
+.u391_container {
+    position:absolute;
+    left:189px;
+    top:2070px;
+    width:50px;
+    height:50px;
+}
+
+#u391_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u392 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u393 {
+    position:absolute;
+    left:359px;
+    top:2127px;
+    width:150px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u394_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u86_normal.png');
+}
+
+.u394_container {
+    position:absolute;
+    left:359px;
+    top:2070px;
+    width:50px;
+    height:50px;
+}
+
+#u394_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u395 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u396_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u88_normal.png');
+}
+
+.u396_container {
+    position:absolute;
+    left:19px;
+    top:2070px;
+    width:50px;
+    height:50px;
+}
+
+#u396_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u397 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u398 {
+    position:absolute;
+    left:699px;
+    top:2127px;
+    width:150px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u399_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u95_normal.png');
+}
+
+.u399_container {
+    position:absolute;
+    left:699px;
+    top:2070px;
+    width:50px;
+    height:50px;
+}
+
+#u399_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u400 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u401 {
+    position:absolute;
+    left:529px;
+    top:2127px;
+    width:150px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u402_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u83_normal.png');
+}
+
+.u402_container {
+    position:absolute;
+    left:529px;
+    top:2070px;
+    width:50px;
+    height:50px;
+}
+
+#u402_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u403 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u404 {
+    position:absolute;
+    left:869px;
+    top:2127px;
+    width:150px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u405_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u88_normal.png');
+}
+
+.u405_container {
+    position:absolute;
+    left:869px;
+    top:2070px;
+    width:50px;
+    height:50px;
+}
+
+#u405_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u406 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u407 {
+    position:absolute;
+    left:1039px;
+    top:2127px;
+    width:150px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u408_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u86_normal.png');
+}
+
+.u408_container {
+    position:absolute;
+    left:1039px;
+    top:2070px;
+    width:50px;
+    height:50px;
+}
+
+#u408_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u409 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u410 {
+    position:absolute;
+    left:169px;
+    top:1860px;
+    width:85px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u411_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u411_normal.png');
+}
+
+.u411_container {
+    position:absolute;
+    left:1230px;
+    top:287px;
+    width:20px;
+    height:60px;
+}
+
+#u411_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:26px;
+    height:66px;
+}
+
+.u412 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:16px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u413 {
+    position:absolute;
+    left:20px;
+    top:180px;
+    width:760px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u414_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u414_normal.png');
+}
+
+.u414_container {
+    position:absolute;
+    left:1020px;
+    top:287px;
+    width:210px;
+    height:60px;
+}
+
+#u414_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:216px;
+    height:66px;
+}
+
+.u415 {
+    position:absolute;
+    left:10px;
+    top:6px;
+    width:198px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u416_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u14_normal.png');
+}
+
+.u416_container {
+    position:absolute;
+    left:25px;
+    top:680px;
+    width:50px;
+    height:50px;
+}
+
+#u416_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u417 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u418_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u18_normal.png');
+}
+
+.u418_container {
+    position:absolute;
+    left:20px;
+    top:675px;
+    width:60px;
+    height:60px;
+}
+
+#u418_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:66px;
+}
+
+.u419 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u420_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u24_normal.png');
+}
+
+.u420_container {
+    position:absolute;
+    left:90px;
+    top:680px;
+    width:50px;
+    height:50px;
+}
+
+#u420_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u421 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u422_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u18_normal.png');
+}
+
+.u422_container {
+    position:absolute;
+    left:85px;
+    top:675px;
+    width:60px;
+    height:60px;
+}
+
+#u422_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:66px;
+}
+
+.u423 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u424_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u8_normal.png');
+}
+
+.u424_container {
+    position:absolute;
+    left:155px;
+    top:680px;
+    width:50px;
+    height:50px;
+}
+
+#u424_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u425 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u426_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u18_normal.png');
+}
+
+.u426_container {
+    position:absolute;
+    left:150px;
+    top:675px;
+    width:60px;
+    height:60px;
+}
+
+#u426_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:66px;
+}
+
+.u427 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u428 {
+    position:absolute;
+    left:182px;
+    top:759px;
+    width:90px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u429_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u429_line.png');
+}
+
+.u429_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:75px;
+    height:3px;
+}
+
+.u429 {
+    position:absolute;
+    left:182px;
+    top:769px;
+    width:75px;
+    height:10px;
+    
+}
+
+.u430_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u430_normal.png');
+}
+
+.u430_container {
+    position:absolute;
+    left:156px;
+    top:755px;
+    width:24px;
+    height:24px;
+}
+
+#u430_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:24px;
+}
+
+.u431 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u432_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u432_normal.png');
+}
+
+.u432_container {
+    position:absolute;
+    left:20px;
+    top:995px;
+    width:170px;
+    height:250px;
+}
+
+#u432_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:256px;
+}
+
+.u433 {
+    position:absolute;
+    left:2px;
+    top:117px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u434_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u432_normal.png');
+}
+
+.u434_container {
+    position:absolute;
+    left:205px;
+    top:995px;
+    width:170px;
+    height:250px;
+}
+
+#u434_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:256px;
+}
+
+.u435 {
+    position:absolute;
+    left:2px;
+    top:117px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u436_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u432_normal.png');
+}
+
+.u436_container {
+    position:absolute;
+    left:390px;
+    top:995px;
+    width:170px;
+    height:250px;
+}
+
+#u436_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:256px;
+}
+
+.u437 {
+    position:absolute;
+    left:2px;
+    top:117px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u438_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u432_normal.png');
+}
+
+.u438_container {
+    position:absolute;
+    left:575px;
+    top:995px;
+    width:170px;
+    height:250px;
+}
+
+#u438_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:256px;
+}
+
+.u439 {
+    position:absolute;
+    left:2px;
+    top:117px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u440_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u432_normal.png');
+}
+
+.u440_container {
+    position:absolute;
+    left:760px;
+    top:995px;
+    width:170px;
+    height:250px;
+}
+
+#u440_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:256px;
+}
+
+.u441 {
+    position:absolute;
+    left:2px;
+    top:117px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u442_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u442_normal.png');
+}
+
+.u442_container {
+    position:absolute;
+    left:585px;
+    top:1055px;
+    width:150px;
+    height:150px;
+}
+
+#u442_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:150px;
+}
+
+.u443 {
+    position:absolute;
+    left:2px;
+    top:67px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u444_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u444_normal.png');
+}
+
+.u444_container {
+    position:absolute;
+    left:400px;
+    top:1055px;
+    width:150px;
+    height:150px;
+}
+
+#u444_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:150px;
+}
+
+.u445 {
+    position:absolute;
+    left:2px;
+    top:67px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u446_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u446_normal.png');
+}
+
+.u446_container {
+    position:absolute;
+    left:770px;
+    top:1055px;
+    width:150px;
+    height:150px;
+}
+
+#u446_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:150px;
+}
+
+.u447 {
+    position:absolute;
+    left:2px;
+    top:67px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u448 {
+    position:absolute;
+    left:820px;
+    top:1215px;
+    width:100px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u449 {
+    position:absolute;
+    left:635px;
+    top:1215px;
+    width:100px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u450 {
+    position:absolute;
+    left:450px;
+    top:1215px;
+    width:100px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u451 {
+    position:absolute;
+    left:265px;
+    top:1215px;
+    width:100px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u452 {
+    position:absolute;
+    left:80px;
+    top:1215px;
+    width:100px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u453_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u453_normal.png');
+}
+
+.u453_container {
+    position:absolute;
+    left:30px;
+    top:1055px;
+    width:150px;
+    height:150px;
+}
+
+#u453_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:150px;
+}
+
+.u454 {
+    position:absolute;
+    left:2px;
+    top:67px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u455_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u455_normal.png');
+}
+
+.u455_container {
+    position:absolute;
+    left:215px;
+    top:1055px;
+    width:150px;
+    height:150px;
+}
+
+#u455_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:150px;
+}
+
+.u456 {
+    position:absolute;
+    left:2px;
+    top:67px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u457 {
+    position:absolute;
+    left:215px;
+    top:1005px;
+    width:150px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u458 {
+    position:absolute;
+    left:400px;
+    top:1005px;
+    width:150px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u459 {
+    position:absolute;
+    left:585px;
+    top:1005px;
+    width:150px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u460 {
+    position:absolute;
+    left:770px;
+    top:1005px;
+    width:150px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u461_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u461_normal.png');
+}
+
+.u461_container {
+    position:absolute;
+    left:215px;
+    top:1215px;
+    width:50px;
+    height:20px;
+}
+
+#u461_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:26px;
+}
+
+.u462 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u464 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:32px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u465_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u465_normal.png');
+}
+
+.u465_container {
+    position:absolute;
+    left:400px;
+    top:1215px;
+    width:65px;
+    height:20px;
+}
+
+#u465_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:26px;
+}
+
+.u466 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:61px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u467_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u461_normal.png');
+}
+
+.u467_container {
+    position:absolute;
+    left:585px;
+    top:1215px;
+    width:50px;
+    height:20px;
+}
+
+#u467_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:26px;
+}
+
+.u468 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u470 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:32px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u471_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u461_normal.png');
+}
+
+.u471_container {
+    position:absolute;
+    left:770px;
+    top:1215px;
+    width:50px;
+    height:20px;
+}
+
+#u471_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:26px;
+}
+
+.u472 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u474 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:32px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u475_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u475_normal.png');
+}
+
+.u475_container {
+    position:absolute;
+    left:181px;
+    top:1104px;
+    width:32px;
+    height:32px;
+}
+
+#u475_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:38px;
+}
+
+.u476 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:28px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u477_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u475_normal.png');
+}
+
+.u477_container {
+    position:absolute;
+    left:366px;
+    top:1104px;
+    width:32px;
+    height:32px;
+}
+
+#u477_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:38px;
+}
+
+.u478 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:28px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u479_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u475_normal.png');
+}
+
+.u479_container {
+    position:absolute;
+    left:551px;
+    top:1104px;
+    width:32px;
+    height:32px;
+}
+
+#u479_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:38px;
+}
+
+.u480 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:28px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u481_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u475_normal.png');
+}
+
+.u481_container {
+    position:absolute;
+    left:736px;
+    top:1104px;
+    width:32px;
+    height:32px;
+}
+
+#u481_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:38px;
+}
+
+.u482 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:28px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u483_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u432_normal.png');
+}
+
+.u483_container {
+    position:absolute;
+    left:945px;
+    top:995px;
+    width:170px;
+    height:250px;
+}
+
+#u483_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:256px;
+}
+
+.u484 {
+    position:absolute;
+    left:2px;
+    top:117px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u485 {
+    position:absolute;
+    left:1005px;
+    top:1215px;
+    width:100px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u486_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u455_normal.png');
+}
+
+.u486_container {
+    position:absolute;
+    left:955px;
+    top:1055px;
+    width:150px;
+    height:150px;
+}
+
+#u486_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:150px;
+}
+
+.u487 {
+    position:absolute;
+    left:2px;
+    top:67px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u488 {
+    position:absolute;
+    left:955px;
+    top:1005px;
+    width:150px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u489_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u461_normal.png');
+}
+
+.u489_container {
+    position:absolute;
+    left:955px;
+    top:1215px;
+    width:50px;
+    height:20px;
+}
+
+#u489_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:26px;
+}
+
+.u490 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u492 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:32px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u493_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u475_normal.png');
+}
+
+.u493_container {
+    position:absolute;
+    left:921px;
+    top:1104px;
+    width:32px;
+    height:32px;
+}
+
+#u493_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:38px;
+}
+
+.u494 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:28px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u495_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u495_normal.png');
+}
+
+.u495_container {
+    position:absolute;
+    left:20px;
+    top:960px;
+    width:105px;
+    height:25px;
+}
+
+#u495_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:31px;
+}
+
+.u496 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:101px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u497_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u497_container {
+    position:absolute;
+    left:125px;
+    top:960px;
+    width:120px;
+    height:25px;
+}
+
+#u497_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:31px;
+}
+
+.u498 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:116px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u499 {
+    position:absolute;
+    left:30px;
+    top:1005px;
+    width:150px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u500_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u500_container {
+    position:absolute;
+    left:250px;
+    top:960px;
+    width:115px;
+    height:25px;
+}
+
+#u500_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:121px;
+    height:31px;
+}
+
+.u501 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:111px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u502_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u502_container {
+    position:absolute;
+    left:365px;
+    top:960px;
+    width:60px;
+    height:25px;
+}
+
+#u502_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:31px;
+}
+
+.u503 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:56px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u504_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u504_container {
+    position:absolute;
+    left:425px;
+    top:960px;
+    width:150px;
+    height:25px;
+}
+
+#u504_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:31px;
+}
+
+.u505 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:146px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u506_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u506_container {
+    position:absolute;
+    left:575px;
+    top:960px;
+    width:145px;
+    height:25px;
+}
+
+#u506_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:151px;
+    height:31px;
+}
+
+.u507 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:141px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u508_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u508_normal.png');
+}
+
+.u508_container {
+    position:absolute;
+    left:20px;
+    top:1095px;
+    width:25px;
+    height:50px;
+}
+
+#u508_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:31px;
+    height:56px;
+}
+
+.u509 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:21px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u510_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u510_normal.png');
+}
+
+.u510_container {
+    position:absolute;
+    left:1075px;
+    top:1095px;
+    width:25px;
+    height:50px;
+}
+
+#u510_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:31px;
+    height:56px;
+}
+
+.u511 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:21px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u512_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u512_normal.png');
+}
+
+.u512_container {
+    position:absolute;
+    left:1100px;
+    top:995px;
+    width:150px;
+    height:250px;
+}
+
+#u512_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:256px;
+}
+
+.u513 {
+    position:absolute;
+    left:2px;
+    top:117px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u514 {
+    position:absolute;
+    left:1109px;
+    top:1005px;
+    width:130px;
+    height:44px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u515_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u515_normal.png');
+}
+
+.u515_container {
+    position:absolute;
+    left:1109px;
+    top:1055px;
+    width:90px;
+    height:30px;
+}
+
+#u515_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:36px;
+}
+
+.u516 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:86px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u517 {
+    position:absolute;
+    left:19px;
+    top:2260px;
+    width:1230px;
+    height:42px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u518_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u518_line.png');
+}
+
+.u518_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:1230px;
+    height:3px;
+}
+
+.u518 {
+    position:absolute;
+    left:19px;
+    top:2240px;
+    width:1230px;
+    height:10px;
+    
+}
+
+.u519 {
+    position:absolute;
+    left:1050px;
+    top:714px;
+    width:200px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u520_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u520_normal.png');
+}
+
+.u520_container {
+    position:absolute;
+    left:1020px;
+    top:710px;
+    width:24px;
+    height:24px;
+}
+
+#u520_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:24px;
+}
+
+.u521 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u522 {
+    position:absolute;
+    left:20px;
+    top:920px;
+    width:940px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u523_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u523_normal.png');
+}
+
+.u523_container {
+    position:absolute;
+    left:20px;
+    top:1280px;
+    width:1230px;
+    height:180px;
+}
+
+#u523_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1236px;
+    height:186px;
+}
+
+.u524 {
+    position:absolute;
+    left:2px;
+    top:82px;
+    width:1226px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u525 {
+    position:absolute;
+    left:40px;
+    top:1300px;
+    width:752px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u526 {
+    position:absolute;
+    left:40px;
+    top:1425px;
+    width:340px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u527_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u527_normal.png');
+}
+
+.u527_container {
+    position:absolute;
+    left:1165px;
+    top:1300px;
+    width:64px;
+    height:64px;
+}
+
+#u527_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:64px;
+    height:64px;
+}
+
+.u528 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u529 {
+    position:absolute;
+    left:40px;
+    top:1325px;
+    width:595px;
+    height:90px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u530 {
+    position:absolute;
+    left:660px;
+    top:1325px;
+    width:72px;
+    height:90px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u531_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u531_normal.png');
+}
+
+.u531_container {
+    position:absolute;
+    left:732px;
+    top:1330px;
+    width:60px;
+    height:20px;
+}
+
+#u531_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:26px;
+}
+
+.u532 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:56px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u533_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u533_line.png');
+}
+
+.u533_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:750px;
+    height:3px;
+}
+
+.u533 {
+    position:absolute;
+    left:40px;
+    top:1350px;
+    width:750px;
+    height:10px;
+    
+}
+
+.u534_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u531_normal.png');
+}
+
+.u534_container {
+    position:absolute;
+    left:732px;
+    top:1360px;
+    width:60px;
+    height:20px;
+}
+
+#u534_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:26px;
+}
+
+.u535 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:56px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u536_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u531_normal.png');
+}
+
+.u536_container {
+    position:absolute;
+    left:732px;
+    top:1390px;
+    width:60px;
+    height:20px;
+}
+
+#u536_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:26px;
+}
+
+.u537 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:56px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u538_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u538_line.png');
+}
+
+.u538_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:750px;
+    height:3px;
+}
+
+.u538 {
+    position:absolute;
+    left:40px;
+    top:1380px;
+    width:750px;
+    height:10px;
+    
+}
+
+.u539_line {
+    background-image: url('../1__Карточка,_финал_1280_files/u539_line.png');
+}
+
+.u539_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:750px;
+    height:3px;
+}
+
+.u539 {
+    position:absolute;
+    left:40px;
+    top:1410px;
+    width:750px;
+    height:10px;
+    
+}
+
+.u540_normal {
+    background-image: url('../1__Карточка,_финал_1280_files/u461_normal.png');
+}
+
+.u540_container {
+    position:absolute;
+    left:30px;
+    top:1215px;
+    width:50px;
+    height:20px;
+}
+
+#u540_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:26px;
+}
+
+.u541 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u543 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:32px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
